@@ -2,8 +2,8 @@
 
  <p align="center">
   <span>Language:</span> 
-  <a href="https://github.com/Zildj1an/Traffic-Simulator/blob/master/LEEME.md">Español</a> |
-  <a href="https://github.com/Zildj1an/Traffic-Simulator">English</a> 
+  <a href="https://github.com/KillerKing18/Traffic-Simulator/blob/master/LEEME.md">Español</a> |
+  <a href="https://github.com/KillerKing18/Traffic-Simulator">English</a> 
 </p>
 
 ## 👨‍🔧 How does it work? 
